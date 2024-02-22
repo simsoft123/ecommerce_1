@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4a0b421e-d7e3-4282-a77a-fe391bc25199"
+      }
+    },
+    "owner": "simisola"
   }
 }
